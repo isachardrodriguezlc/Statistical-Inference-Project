@@ -16,3 +16,6 @@ ggplot(mlb_data, aes(x = Open, y = Close, color = RunLine)) +
 correlation <- cor(mlb_data$Open, mlb_data$Close)
 print("Correlation between Open and Close:")
 correlation
+#The scatterplot of opening odds versus closing odds shows a strong positive linear relationship, 
+#with a correlation coefficient of 0.889, this high correlation indicates that the opening and closing odds are closely related, 
+#suggesting that changes in opening odds strongly predict changes in closing odds.
