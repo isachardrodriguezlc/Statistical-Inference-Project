@@ -10,11 +10,11 @@ Statistical Inference
 #### Milestones & Course Content
 
 -   [📆 Milestone 1: Choose your dataset](./Milestone%201)
--   [📆 Milestone2: Create a GitHub account and project page](./Week%202)
--   [📆 Milestone 3: Single variable distributions](./Week%203)
--   [📆 Milestone 4: Missing data and outliers](./Week%204)
--   [📆 Milestone 5: Measures of center and spread](./Week%204)
--   [📆 Milestone 6: Scatterplots and correlation](./Week%204)
+-   [📆 Milestone 2: Create a GitHub account and project page](./Milestone%202)
+-   [📆 Milestone 3: Single variable distributions](./Milestone%203)
+-   [📆 Milestone 4: Missing data and outliers](./Milestone%204)
+-   [📆 Milestone 5: Measures of center and spread](./Milestone%205)
+-   [📆 Milestone 6: Scatterplots and correlation](./Milestone%206)
 
 
 #### Project Description
