@@ -9,7 +9,7 @@ Statistical Inference
 
 #### Milestones & Course Content
 
--   [📆 Milestone 1: Choose your dataset](./Week%201)
+-   [📆 Milestone 1: Choose your dataset](./Milestone%201)
 -   [📆 Milestone2: Create a GitHub account and project page](./Week%202)
 -   [📆 Milestone 3: Single variable distributions](./Week%203)
 -   [📆 Milestone 4: Missing data and outliers](./Week%204)
