@@ -2,16 +2,19 @@ Statistical Inference
 ================
 -   👨🏻‍💻 Author: Isachard Rodriguez
 -   📖 Course: MAT 327 - Statistical Inference 
-    - 🧑‍🏫 Instructor: Brian Caffo
-    -   🚦 Start: Wednesday, 29 June 2022
-    -   🏁 Finish: Tuesday, 05 July 2022
+    - 🧑‍🏫 Instructor: Prof. Megan Owen
+    - 🚦 Term: Fall 2024
+    - 📖 Textbook:
+        - Applied Statistics with R by David Dalpaiz
 
 #### Milestones & Course Content
 
--   [📆 Week 1](./Week%201)
--   [📆 Week 2](./Week%202)
--   [📆 Week 3](./Week%203)
--   [📆 Week 4](./Week%204)
+-   [📆 Milestone 1: Choose your dataset](./Week%201)
+-   [📆 Milestone2: Create a GitHub account and project page](./Week%202)
+-   [📆 Milestone 3: Single variable distributions](./Week%203)
+-   [📆 Milestone 4: Missing data and outliers](./Week%204)
+-   [📆 Milestone 5: Measures of center and spread](./Week%204)
+-   [📆 Milestone 6: Scatterplots and correlation](./Week%204)
 
 
 #### Project Description
