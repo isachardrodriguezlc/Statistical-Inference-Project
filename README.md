@@ -1,6 +1,7 @@
 Statistical Inference
 ================
 -   👨🏻‍💻 Author: Isachard Rodriguez
+-   💻 Project Website: https://sites.google.com/view/sportsbooks-market-trends-odds/home
 -   📖 Course: MAT 327 - Statistical Inference 
     - 🧑‍🏫 Instructor: Prof. Megan Owen
     - 🚦 Term: Fall 2024
