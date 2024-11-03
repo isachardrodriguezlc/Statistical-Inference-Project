@@ -16,6 +16,7 @@ Statistical Inference
 -   [📆 Milestone 4: Missing data and outliers](./Milestone%204)
 -   [📆 Milestone 5: Measures of center and spread](./Milestone%205)
 -   [📆 Milestone 6: Scatterplots and correlation](./Milestone%206)
+-   [📆 Milestone 7: Confidence Intervals](./Milestone%207)
 
 
 #### Project Description

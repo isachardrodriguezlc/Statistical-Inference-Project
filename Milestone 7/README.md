@@ -5,6 +5,6 @@
 2) Add your R code for this milestone to your GitHub account.
 
 
-###The confidence intervals are relatively wide, especially for the Open column, indicating that there is some variability in the data. The wider the confidence interval, the less precise our estimate of the true mean.
-###Given that both intervals are reasonably large, we can still trust that the true means are within these ranges, but the precision of the estimates is somewhat limited. A narrower interval would suggest a more precise estimate. The spread suggests that there is some variability in the data, which might be due to differences in odds or other factors affecting the calculations.
+### The confidence intervals are relatively wide, especially for the Open column, indicating that there is some variability in the data. The wider the confidence interval, the less precise our estimate of the true mean.
+### Given that both intervals are reasonably large, we can still trust that the true means are within these ranges, but the precision of the estimates is somewhat limited. A narrower interval would suggest a more precise estimate. The spread suggests that there is some variability in the data, which might be due to differences in odds or other factors affecting the calculations.
 
